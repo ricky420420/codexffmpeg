@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codex FFmpeg
 
 This is a support site for https://www.gyan.dev/ffmpeg
@@ -27,3 +28,7 @@ https://www.gyan.dev/ffmpeg/builds/ffmpeg-tools.zip.sha256
 All hashes are for the 7-zip archives unless marked otherwise in the URL.
 
 [![Buy me a cuppa](../assets/bmc-192.png)](https://www.buymeacoffee.com/gyan)
+=======
+# codexffmpeg
+Support for https://www.gyan.dev/ffmpeg
+>>>>>>> 4e85361 (Initial commit)
